@@ -1,0 +1,21 @@
+# SCUBATEC S.A.
+
+> Empresa ecuatoriana de buceo comercial y técnico (Nitrox · Technical Diver · Trimix) desde 2011. Trabajos submarinos para el sector eléctrico, portuario, naval e industrial, y formación de buzos. Sitio disponible en español e inglés.
+
+## Páginas
+- /: Inicio — presentación de la empresa, servicios, proyectos, cursos, aliados y contacto
+- /servicios: Las seis líneas de servicio
+- /servicios/soldadura: Soldadura submarina, corte y colocación de ánodos
+- /servicios/comercial: Buceo comercial — inspección y trabajos submarinos
+- /servicios/cascos: Limpieza de cascos y hélices en el agua
+- /servicios/offshore: Soporte de buceo para plataformas y terminales costa afuera
+- /servicios/construccion: Construcción y reparación en muelles, bocatomas y ductos
+- /servicios/hiperbarica: Servicio de cámara hiperbárica
+- /proyectos: Trabajos realizados para CELEC EP, Fertisa, T&T Salvage e Infantería de Marina
+- /cursos: Cursos CMAS, SNSI, Primeros Auxilios (PAB) e instrucción al GOE
+- /aliados: Empresas e instituciones aliadas
+- /contacto: Solicitud de cotización por WhatsApp o correo
+
+## Contacto
+- Correo: acomercial@scubatecsa.com
+- Teléfonos: (593 4) 2220703 · +(593) 987672619 · +(593) 997372656
